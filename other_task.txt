@@ -1,0 +1,1 @@
+Checking if this file can create some conflicts while syncing the fork
