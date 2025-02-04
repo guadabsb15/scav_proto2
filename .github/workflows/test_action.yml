@@ -1,6 +1,7 @@
-on: 
-
-  workflow_dispatch:
+on:
+  push:
+    branches:
+      - action
 
 jobs:
   hello_world_job:
