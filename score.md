@@ -1,6 +1,6 @@
 # This File keeps track of collected items
 
-setup: 
+setup: *
 
 git:
 
